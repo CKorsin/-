@@ -1,0 +1,3 @@
+管理员id=5
+username=admin
+password=123456
